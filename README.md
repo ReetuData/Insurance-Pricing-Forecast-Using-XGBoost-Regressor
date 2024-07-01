@@ -6,7 +6,7 @@ This data science project aims to build and evaluate linear and xgboost regressi
 **Overview**
 
 ○ Insurance companies cover expenses the policyholder incurs from damages to health or property policies commonly offered: medical bills, house, motor vehicle, and fire 
-   insurance, and financial losses such as a loss of income against a fee or premium paid by the client.n/
+   insurance, and financial losses such as a loss of income against a fee or premium paid by the client.<be>
 ○ Traditional approaches to premium calculation require a lot of time-consuming human labor and are getting more complicated daily to capture the increasingly complex 
    interactions in the data. 
 ○ Insurance firms should normally collect a higher premium than the amount given to the insured individual if that person files a valid claim to generate a profit. Since 
