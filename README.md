@@ -97,38 +97,38 @@ Install the file using the command "pip install-r requirements.txt4".
 
 **Takeaways**:  
 
--- Understanding the insurance pricing problem statement  
+- Understanding the insurance pricing problem statement  
 
--- Exploratory Data Analysis on Categorical and Continuous Data  
+- Exploratory Data Analysis on Categorical and Continuous Data  
 
--- Univariate Data Analysis  
+- Univariate Data Analysis  
  
--- Bivariate Data Analysis  
+- Bivariate Data Analysis  
 
--- Understand Correlation Analysis  
+- Understand Correlation Analysis  
 
--- Categorical Correlation with Chi-squared  
+- Categorical Correlation with Chi-squared  
 
--- Correlation between Categorical and Target Variables with ANOVA  
+- Correlation between Categorical and Target Variables with ANOVA  
 
--- Label Encoding for Categorical Variables  
+- Label Encoding for Categorical Variables  
 
--- Understanding Linear Regression Assumptions  
+- Understanding Linear Regression Assumptions  
 
--- Implementing Linear Regression  
+- Implementing Linear Regression  
 
--- Validating Linear Regression Assumptions  
+- Validating Linear Regression Assumptions  
 
--- Understanding XGBoost Regressor  
+- Understanding XGBoost Regressor  
 
--- Implementing XGBoost Regressor  
+- Implementing XGBoost Regressor  
 
--- Building pipelines with Sklearn’s Pipeline operator  
+- Building pipelines with Sklearn’s Pipeline operator  
 
--- Implementing BayesSearchCV for XGBoost Hyperparameter Optimization  
+- Implementing BayesSearchCV for XGBoost Hyperparameter Optimization  
 
--- Evaluating Models with Regression Metrics - RMSE  
+- Evaluating Models with Regression Metrics - RMSE  
 
--- Presenting Non-Technical Metrics for Stakeholders  
+- Presenting Non-Technical Metrics for Stakeholders  
 
  
