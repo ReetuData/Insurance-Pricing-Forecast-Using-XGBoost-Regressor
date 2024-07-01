@@ -14,44 +14,48 @@ This data science project aims to build and evaluate linear and xgboost regressi
 ○ Insurance firms should normally collect a higher premium than the amount given to the insured individual if that person files a valid claim to generate a profit. Since 
    profitability is the fundamental factor that helps the insurance firm survive, it needs a mechanism for reliably forecasting healthcare expenses. 
 
-Hence, this project aims to build a machine learning model that helps establish the rates by predicting the charges or payouts done by the health insurance firm to maintain profitability. This project will primarily focus on building an XGBoost Regressor to determine healthcare expenses based on features such as age, BMI, smoking, etc. 
-We will also learn about categorical correlation, build a linear regression model as a baseline, and compare it with the results of the XGBoost Regressor. 
+- Hence, this project aims to build a machine learning model that helps establish the rates by predicting the charges or payouts done by the health insurance firm to maintain profitability. This project will primarily focus on building an XGBoost Regressor to determine healthcare expenses based on features such as age, BMI, smoking, etc. 
+- We will also learn about categorical correlation, build a linear regression model as a baseline, and compare it with the results of the XGBoost Regressor. 
 
 
 **Objective**: This data science project aims to build and evaluate linear and xgboost regression models and determine the healthcare charges of each customer. This analysis will help the insurance firm to strategize a premium plan that will help maximize the profits. 
 
 **Data Description**: The insurance price forecast dataset contains historical records for 1338 insured customers.  
 
-The column definitions are below 
-● age: Age of the primary beneficiary.  
+The column definitions are below  
 
-● sex: Gender of the primary beneficiary.  
+- age: Age of the primary beneficiary.  
 
-● BMI: Body mass index of the primary beneficiary.  
+- sex: Gender of the primary beneficiary.  
 
-● children: Number of children the primary beneficiary has. 
-● smoker: Whether the primary beneficiary smokes.  
+- BMI: Body mass index of the primary beneficiary.  
 
-● region: The primary beneficiary's residential area in the US.  
+- children: Number of children the primary beneficiary has.  
 
-● charges: Individual medical costs billed by health insurance.  
+- smoker: Whether the primary beneficiary smokes.  
+
+- region: The primary beneficiary's residential area in the US.  
+
+- charges: Individual medical costs billed by health insurance.  
 
 
 **Tech Stack**   
 
-● Language: Python   
+- Language: Python   
 
-● Libraries: pandas, numpy, matplotlib, plotly, statsmodels, sklearn, xgboost, skopt Approach  
+- Libraries: pandas, numpy, matplotlib, plotly, statsmodels, sklearn, xgboost, skopt Approach  
 
 
 **Exploratory Data Analysis (EDA)**:  
+
 ○ Distributions  
 
 ○ Univariate Analysis  
 
 ○ Bivariate Analysis  
 
-○ Correlation 
+○ Correlation  
+
        ■ Pearson Correlation  
        
        ■ Chi-squared Tests  
@@ -59,7 +63,8 @@ The column definitions are below
        ■ ANOVA  
        
        
-**Build and evaluate a baseline linear model**: 
+**Build and evaluate a baseline linear model**:  
+
  ○ Linear regression assumptions  
  
  ○ Data preprocessing  
@@ -71,7 +76,8 @@ The column definitions are below
         ■ RMSE 
         
         
-**Improve on the baseline linear model**:
+**Improve on the baseline linear model**:  
+
 ○ Introduction to a non-linear model - XGBoost ○ Data preprocessing  
 
 ○ Using Sklearn's Pipeline to optimize the model training process  
