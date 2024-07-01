@@ -1,8 +1,8 @@
-# Insurance-Pricing-Forecast-Using-XGBoost-Regressor
+#Insurance-Pricing-Forecast-Using-XGBoost-Regressor
 This data science project aims to build and evaluate linear and xgboost regression models and determine the healthcare charges of each customer
 
 
-                                                    Insurance Pricing Forecast Using XGBoost Regressor Project Overview 
+# Insurance Pricing Forecast Using XGBoost Regressor Project Overview 
 **Overview**
 
 ○ Insurance companies cover expenses the policyholder incurs from damages to health or property policies commonly offered: medical bills, house, motor vehicle, and fire 
